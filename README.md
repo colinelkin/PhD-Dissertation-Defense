@@ -1,1 +1,1 @@
-LaTex code for my PhD defense presentation using the Beamer template.
+LaTex code for my PhD dissertation defense presentation using the Beamer template.
